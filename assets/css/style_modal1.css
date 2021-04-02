@@ -1,0 +1,135 @@
+.icon {
+    padding: 15px;
+    color: #308EFC;
+    width: 70px;
+    text-align: left;
+ }
+
+ .cya{
+     position: absolute;
+     float: left;
+     margin-right: 45%;
+    
+ }
+
+ .modal-body {
+    max-height: 400px;
+    overflow-y: auto; 
+    overflow-x: hidden;
+ 
+  }
+
+ @media(min-width:600px){
+    .emailIcon{
+        position: absolute;
+        margin-top: 10%;
+        margin-left: 70%;
+    }
+   
+    .passIcon{
+       position: absolute;
+       margin-top: 10%;
+       margin-left: 65%;
+       width: 100%;
+   }
+   .passIcon2{
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 54%;
+    width: 100%;
+}
+
+.user{
+    margin-left: 60%;
+    margin-top: 8%;
+}
+
+.phone{
+    position: absolute;
+    margin-left: 65%;
+    margin-top: 8%;
+}
+.education{
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 8%;
+}
+.citizenship{
+    position: absolute;
+    margin-left: 60%;
+    margin-top: 8%;
+}
+.address{
+    position: absolute;
+    margin-left: 65%;
+    margin-top: 8%;
+}
+.skill{
+    position: absolute;
+    margin-left: 70%;
+    margin-top: 8%;
+}
+.work{
+    position: absolute;
+    margin-left: 65%;
+    margin-top: 3%;
+}
+}
+ 
+
+ @media(max-width:600px){
+    .emailIcon{
+        position: absolute;
+        margin-top: 10%;
+        margin-left: 66%;
+    }
+   
+    .passIcon{
+       position: absolute;
+       margin-top: 10%;
+       margin-left: 60%;
+       width: 100%;
+   }
+
+   .passIcon2{
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 48%;
+    width: 100%;
+}
+.user{
+    margin-left: 60%;
+    margin-top: 8%;
+}
+
+.phone{
+    position: absolute;
+    margin-left: 65%;
+    margin-top: 8%;
+}
+.education{
+    position: absolute;
+    margin-left: 48%;
+    margin-top: 8%;
+}
+.citizenship{
+    position: absolute;
+    margin-left: 60%;
+    margin-top: 8%;
+}
+.address{
+    position: absolute;
+    margin-left: 65%;
+    margin-top: 8%;
+}
+.skill{
+    position: absolute;
+    margin-left: 70%;
+    margin-top: 8%;
+}
+.work{
+    position: absolute;
+    margin-left: 65%;
+    margin-top: 3%;
+}
+ }
